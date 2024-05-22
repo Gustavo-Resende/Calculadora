@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gugui\\OneDrive\\Documentos\\ESTUDOS\\C#\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\gugui\\OneDrive\\Documentos\\ESTUDOS\\C#\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gugui\\OneDrive\\Documentos\\ESTUDOS\\C#\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\gugui\\OneDrive\\Documentos\\ESTUDOS\\C#\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gugui\\OneDrive\\Documentos\\ESTUDOS\\C#\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\gugui\\OneDrive\\Documentos\\ESTUDOS\\C#\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "c:\\Users\\gugui\\OneDrive\\Documentos\\ESTUDOS\\C#\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\gugui\\OneDrive\\Documentos\\ESTUDOS\\C#\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\gugui\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gugui\\OneDrive\\Documentos\\ESTUDOS\\C#\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\gugui\\OneDrive\\Documentos\\ESTUDOS\\C#\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gugui\\AppData\\Roaming\\NuGet\\NuGet.Config",

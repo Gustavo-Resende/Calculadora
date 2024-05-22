@@ -7,7 +7,6 @@ c:\Users\gugui\OneDrive\Documentos\ESTUDOS\C#\Calculadora\obj\Debug\net8.0\Calcu
 c:\Users\gugui\OneDrive\Documentos\ESTUDOS\C#\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
 c:\Users\gugui\OneDrive\Documentos\ESTUDOS\C#\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
 c:\Users\gugui\OneDrive\Documentos\ESTUDOS\C#\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
-c:\Users\gugui\OneDrive\Documentos\ESTUDOS\C#\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
 c:\Users\gugui\OneDrive\Documentos\ESTUDOS\C#\Calculadora\obj\Debug\net8.0\Calculadora.dll
 c:\Users\gugui\OneDrive\Documentos\ESTUDOS\C#\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
 c:\Users\gugui\OneDrive\Documentos\ESTUDOS\C#\Calculadora\obj\Debug\net8.0\Calculadora.pdb
