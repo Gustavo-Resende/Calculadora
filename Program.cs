@@ -2,37 +2,39 @@
 {
     static void Main()
     {
-        Console.Write("Digite o primeiro valor: ");
-        int valor1 = int.Parse(Console.ReadLine());
-
-        Console.Write("Digite a operação: ");
-        char operacao = char.Parse(Console.ReadLine());
-
-        Console.Write("Digite o segundo valor: ");
-        int valor2 = int.Parse(Console.ReadLine());
-
-    if (operacao == '+')
+    while (true)
         {
-            int resultado = valor1 + valor2;
-            Console.Write($"A soma de {valor1} + {valor2} = {resultado}");
+            Console.Write("Digite o primeiro valor: ");
+            int valor1 = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite a operação: ");
+            int operacao = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o segundo valor: ");
+            int valor2 = int.Parse(Console.ReadLine());
+
+            int resultado = Calcular(valor1, operacao, valor2);
+
+            Console.WriteLine($"O resultado da operação é: {resultado}");
         }
+    }
 
-    if (operacao == '-')
+    static int Calcular(int valor1, int operacao, int valor2)
+    {
+        switch (operacao)
         {
-            int resultado = valor1 - valor2;
-            Console.Write($"A subtração de {valor1} - {valor2} = {resultado}");
-        }
-    
-    if (operacao == '*')
-        {
-            int resultado = valor1 * valor2;
-            Console.Write($"A multiplicação de {valor1} * {valor2} = {resultado}");
-        }
+            case '+':
+                return valor1 + valor2;
+            case '-':
+                return valor1 - valor2;
+            case '*':
+                return valor1 * valor2;
+            case '/':
+                return valor1 / valor2;
 
-    if (operacao == '/')
-        {
-            int resultado = valor1 / valor2;
-            Console.Write($"A divisão de {valor1} / {valor2} = {resultado}");
+            default:
+                Console.WriteLine("Operação inválida.");
+                return 0;
         }
     }
 }
